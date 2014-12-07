@@ -1,0 +1,13 @@
+C:\Users\Nona\workspace\Tracking\Rectangle\center
+139
+104
+10
+10
+10
+5
+1
+y
+n
+y
+-1
+...

@@ -1,0 +1,13 @@
+C:\Users\Nona\workspace\Tracking\Swirl
+280
+260
+10
+10
+10
+32
+1
+n
+y
+y
+10
+...

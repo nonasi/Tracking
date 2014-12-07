@@ -1,0 +1,13 @@
+C:\Users\Nona\workspace\Tracking\Rectangle\top_left
+39
+32
+10
+10
+10
+32
+1
+n
+n
+y
+-1
+...

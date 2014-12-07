@@ -1,0 +1,13 @@
+C:\Users\Nona\workspace\Tracking\Swirl
+266
+250
+10
+10
+10
+600
+1
+n
+n
+n
+10
+...
